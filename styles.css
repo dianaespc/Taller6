@@ -1,0 +1,25 @@
+.color-view{
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	display: inline;
+	width: 100px;
+	height: 100px;
+	margin: 5px;
+	padding:10px;
+}
+
+.rules{
+    width: 500px;
+	height: 200px;
+}
+
+.website-background{ background-color: #FFFFFF;}
+
+.element-text{ color:#000000;}
+
+.element-border{ border-color: #000000;}
+
+.element-background{ background-color: #FFFFFF;}
+
+.header{ color: #000000;}
